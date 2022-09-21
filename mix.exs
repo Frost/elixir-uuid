@@ -42,6 +42,7 @@ defmodule UUID.Mixfile do
      maintainers: ["Andrei Mihu"],
      licenses: ["Apache 2.0"],
      links: %{"GitHub" => "https://github.com/zyro/elixir-uuid"}]
+      licenses: ["Apache-2.0"],
   end
 
 end
